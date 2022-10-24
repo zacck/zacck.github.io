@@ -1,7 +1,7 @@
+---
 layout: post
 title: "Everything is Analog"
-date: 2022-10-24 00:00:00 -0000
-
+---
 # Types of Electronic Systems
 
 In today's session on Andre, we mostly worked on defining electricity,  electronics and  breaking electronics down into the two types of electronics there are.
