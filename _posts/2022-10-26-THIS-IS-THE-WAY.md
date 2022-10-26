@@ -16,19 +16,19 @@ Well thats not the key bit today, here's my take aways from the lesson
 To the above effect I drew and implemented a very simple LED circuit see below
 
 I drew a circuit with a couple of switches and LEDs
-![Drawing of the Circuit](/zacck.github.io/assets/IMG_9142.HEIC)
+![Drawing of the Circuit](/assets/IMG_9142.HEIC)
 
 I then built the circuit
-![Circuit on a Bread Board](/zacck.github.io/assets/IMG_9138.HEIC)
+![Circuit on a Bread Board](/assets/IMG_9138.HEIC)
 
 Red Button and LED working
-![Drawing of the Circuit](/zacck.github.io/assets/IMG_9140.HEIC)
+![Drawing of the Circuit](/assets/IMG_9140.HEIC)
 
 Yellow Button and LED working
-![Drawing of the Circuit](/zacck.github.io/assets/IMG_9139.HEIC)
+![Drawing of the Circuit](/assets/IMG_9139.HEIC)
 
 Both Yellow and Red Buttons working
-![Drawing of the Circuit](/zacck.github.io/assets/IMG_9141.HEIC)
+![Drawing of the Circuit](/assets/IMG_9141.HEIC)
 
 This is the way! See you soon
 
