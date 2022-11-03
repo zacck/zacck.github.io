@@ -19,10 +19,11 @@ The c code for this can be found [here](https://github.com/zacck/attiny85-hello-
 
 
 I drew a circuit of the processor and the LED
-![Drawing of the Circuit](/assets/attiny84_circ.jpeg)
+![Drawing of the Circuit](/assets/attiny85_circ.png)
 
 I then built the circuit and flashed the code to it
-![Circuit on a Bread Board](/assets/IMG_9176.MOV)
+<video src="/assets/attiny_vid.mp4" alt
+="Video of Circuit" autoplay="autoplay" controls muted>
 
 
 
